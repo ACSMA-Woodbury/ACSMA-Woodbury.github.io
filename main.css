@@ -15,11 +15,6 @@ body {
     padding: 2em 2em 4em;
     text-align: center;
 }
-#content {
-    width: 400px;
-    margin: 0 auto;
-    background-color: #66ffff;
-}
 
 
 h1, h2, h3, h4, h5, h6 {
